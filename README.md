@@ -9,4 +9,6 @@ This project explores gender-related issues within Palmoria Group using Power BI
 - Apply bonus rules based on performance
 - Summarize total payouts and recommendations
 ## Tools
-- Power BI
+- Microsoft Excel (Data Source)
+- Power BI (For Creating report and Visuals)
+## Key Visuals
