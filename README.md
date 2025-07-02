@@ -12,3 +12,6 @@ This project explores gender-related issues within Palmoria Group using Power BI
 - Microsoft Excel (Data Source)
 - Power BI (For Creating report and Visuals)
 ## Key Visuals
+- Donut charts for gender distribution
+- Stacked bars for department-wise breakdown
+- Salary band histograms
