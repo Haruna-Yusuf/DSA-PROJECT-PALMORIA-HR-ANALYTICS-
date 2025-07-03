@@ -29,6 +29,6 @@ This project explores gender-related issues within Palmoria Group using Power BI
 
 - Card Visuals for Average Rating by Gender
 
-
+   
   
 - Salary band histograms
