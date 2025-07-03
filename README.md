@@ -20,8 +20,15 @@ This project explores gender-related issues within Palmoria Group using Power BI
 - Clustered Column Chart for Gender Distribution by Department
 
 
+   ![Gender distribution by department](https://github.com/user-attachments/assets/de4c0dbb-aee6-4c1e-9529-d01845dda70c)
 
 
+- Clustered Column Chart for Gender Distribution by Region
+
+   ![gender distribution by region](https://github.com/user-attachments/assets/8eed44b0-fa64-4a86-a637-074c62cec851)
+
+- Card Visuals for Average Rating by Gender
 
 
+  
 - Salary band histograms
