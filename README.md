@@ -14,6 +14,14 @@ This project explores gender-related issues within Palmoria Group using Power BI
 - Power BI (For Creating report and Visuals)
 ## Key Visuals
 - Donut charts for gender distribution
-  
-- Stacked bars for department-wise breakdown
+
+   ![overall gender distribution](https://github.com/user-attachments/assets/d1b0f1fa-c0e8-43cd-bff8-ba9613546e43)
+
+- Clustered Column Chart for Gender Distribution by Department
+
+
+
+
+
+
 - Salary band histograms
