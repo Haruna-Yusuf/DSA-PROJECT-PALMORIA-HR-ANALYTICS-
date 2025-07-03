@@ -36,3 +36,9 @@ This project explores gender-related issues within Palmoria Group using Power BI
    ![Average salary by Gender](https://github.com/user-attachments/assets/cd18fdf5-8c33-4807-bf49-05aaa2ffa870)
 
 - Clustered Column Chart for Salary band distribution
+
+   ![salaryband distribution](https://github.com/user-attachments/assets/118a94d0-bac6-468d-9fea-028dd8e404d1)
+
+## Project Files
+
+
