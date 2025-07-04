@@ -44,10 +44,12 @@ This project explores gender-related issues within Palmoria Group using Power BI
 
 ## Insights
 
-- Some departments and regions are male-dominated
-- Gender pay gap observed in Engineering and Sales
+- Gender distribution is nearly balanced overall, but there are 40 employees who didn't disclose their gender
+- Not Really, A significant number of employees are paid below the minimum wage requirement of $90,000
+- There is a measurable Gender pay gap in favor of the male employees. While the difference is modest, it’s consistent     across most departments.The gap is widest in Business Development and Accounting.
 - Employees rated “Very Good” receive significantly higher bonuses
-- Several staff earn below the $90,000 regulatory threshold
+- Bonus percentages vary by department and are tied to performance ratings
+  
 
 
 
