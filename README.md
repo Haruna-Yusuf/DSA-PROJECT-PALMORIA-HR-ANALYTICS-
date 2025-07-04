@@ -42,5 +42,8 @@ This project explores gender-related issues within Palmoria Group using Power BI
 ## Project Files
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21047882/Palmoria.Group.emp-data.csv)
 
+## Insights
+
+
 
 
