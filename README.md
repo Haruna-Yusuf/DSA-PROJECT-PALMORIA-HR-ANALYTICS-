@@ -42,6 +42,8 @@ This project explores gender-related issues within Palmoria Group using Power BI
 ## Project Files
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21047882/Palmoria.Group.emp-data.csv)
 
+
+
 ## Insights
 
 - Gender distribution is nearly balanced overall but tilts a bit slightly in favor of the Males, but there are 40          employees who didn't disclose their gender.
