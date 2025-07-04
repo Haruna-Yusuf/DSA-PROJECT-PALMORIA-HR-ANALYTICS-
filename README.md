@@ -1,4 +1,4 @@
-[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21047882/Palmoria.Group.emp-data.csv)# DSA-PROJECT-PALMORIA-HR-ANALYTICS-
+# DSA-PROJECT-PALMORIA-HR-ANALYTICS-
 The Palmoria HR analytics project focused on gender equality, pay gap analysis, and bonus allocation using Power BI dashboards and employee data from Palmoria Group
 # Palmoria Group HR Analytics
 This project explores gender-related issues within Palmoria Group using Power BI. It addresses key areas such as gender distribution, performance ratings, salary gaps, and bonus allocation.
@@ -40,6 +40,7 @@ This project explores gender-related issues within Palmoria Group using Power BI
    ![salaryband distribution](https://github.com/user-attachments/assets/118a94d0-bac6-468d-9fea-028dd8e404d1)
 
 ## Project Files
+[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21047882/Palmoria.Group.emp-data.csv)
 
 
 
