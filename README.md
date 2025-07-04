@@ -44,6 +44,12 @@ This project explores gender-related issues within Palmoria Group using Power BI
 
 ## Insights
 
+- Some departments and regions are male-dominated
+- Gender pay gap observed in Engineering and Sales
+- Employees rated “Very Good” receive significantly higher bonuses
+- Several staff earn below the $90,000 regulatory threshold
+
+
 
 
 
